@@ -1,0 +1,595 @@
+POST http://localhost:8000/api/v1/calificaciones/?valor=2&comentario=asd&restaurante=6&usuario=30
+valor: 2
+comentario: aaaaa
+resturante: 6
+usuario: 30
+
+<> 2020-04-30T045246.404.html
+
+###
+
+POST http://localhost:8000/api/v1/calificaciones
+valor: 2
+comentario: aaaaa
+resturante: 6
+usuario: 30
+
+###
+
+POST http://localhost:8000/api/v1/calificaciones
+valor: 2
+comentario: aaaaa
+resturante: 6
+usuario: 30
+
+###
+
+POST http://localhost:8000/api/v1/calificaciones
+valor: 2
+comentario: aaaaa
+resturante: 6
+usuario: 30
+
+<> 2020-04-30T044825.500.html
+
+###
+
+POST http://localhost:8000/api/v1/calificaciones
+valor: 2
+comentario: aaaaa
+resturante: 6
+usuario: 30
+
+<> 2020-04-30T044806.500.html
+
+###
+
+POST http://localhost:8000/api/v1/calificaciones
+valor: 2
+comentario: aaaaa
+resturante: 6
+usuario: 30
+
+<> 2020-04-30T044804.500.html
+
+###
+
+POST http://localhost:8000/api/v1/calificaciones
+valor: 2
+comentario: aaaaa
+resturante: 6
+usuario: 30
+
+<> 2020-04-30T044750.500.html
+
+###
+
+POST http://localhost:8000/api/v1/calificaciones
+valor: 2
+comentario: aaaaa
+resturante: 6
+usuario: 30
+
+<> 2020-04-30T044716.500.html
+
+###
+
+POST http://localhost:8000/api/v1/calificaciones
+valor: 2
+comentario: aaaaa
+resturante: 6
+usuario: 30
+
+<> 2020-04-30T044648.500.html
+
+###
+
+POST http://localhost:8000/api/v1/calificaciones
+valor: 2
+comentario: aaaaa
+resturante: 6
+usuario: 30
+
+<> 2020-04-30T044630.500.html
+
+###
+
+POST http://localhost:8000/http://127.0.0.1:8000/api/v1/calificaciones
+valor: 2
+comentario: aaaaa
+resturante: 6
+usuario: 30
+
+<> 2020-04-30T044612.404.html
+
+###
+
+DELETE http://localhost:8000/api/v1/tipoPlatos%20
+
+<> 2020-04-30T014846.404.html
+
+###
+
+DELETE http://localhost:8000/api/v1/tipoPlatos%20
+
+<> 2020-04-30T014655.404.html
+
+###
+
+POST http://localhost:8000/api/v1/usuarios/
+Nombres: asd
+Apellidos: asdsd
+Username: 123213
+Password: 123123
+Email: asdhotmailcom
+Telefono: 6666
+Direccion: 1231232
+
+<> 2020-04-29T085721.404.html
+
+###
+
+POST http://localhost:8000/api/v1/usuarios/
+Nombres: asd
+Apellidos: asdsd
+Username: 123213
+Password: 123123
+Email: asdhotmailcom
+Telefono: 6666
+Direccion: 1231232
+
+<> 2020-04-29T085714.404.html
+
+###
+
+POST http://localhost:8000/api/v1/usuarios/
+Nombres: asd
+Apellidos: asdsd
+Username: 123213
+Password: 123123
+Email: asdhotmailcom
+Telefono: 6666
+Direccion: 1231232
+
+<> 2020-04-29T085708.404.html
+
+###
+
+POST http://localhost:8000/api/v1/usuarios/
+Nombres: asd
+Apellidos: asdsd
+Username: 123213
+Password: 123123
+Email: asdhotmailcom
+Telefono: 6666
+Direccion: 1231232
+
+<> 2020-04-29T085701.404.html
+
+###
+
+POST http://localhost:8000/api/v1/usuarios/
+Nombres: asd
+Apellidos: asdsd
+Username: 123213
+Password: 123123
+Email: asdhotmailcom
+Telefono: 6666
+Direccion: 1231232
+
+<> 2020-04-29T085624.404.html
+
+###
+
+POST http://localhost:8000/api/v1/usuarios/
+Nombres: asd
+Apellidos: asdsd
+Username: 123213
+Password: 123123
+Email: asdhotmailcom
+Telefono: 6666
+Direccion: 1231232
+
+<> 2020-04-29T082702.404.html
+
+###
+
+POST http://localhost:8000/api/v1/usuarios/
+Nombres: asd
+Apellidos: asdsd
+Username: 123213
+Password: 123123
+Email: asdhotmailcom
+Telefono: 6666
+Direccion: 1231232
+
+<> 2020-04-29T082627.404.html
+
+###
+
+POST http://localhost:8000/api/v1/usuarios/
+Nombres: asd
+Apellidos: asdsd
+Username: 123213
+Password: 123123
+Email: asdhotmailcom
+Telefono: 6666
+Direccion: 1231232
+
+<> 2020-04-29T082605.404.html
+
+###
+
+POST http://localhost:8000/api/v1/usuarios/
+Nombres: asd
+Apellidos: asdsd
+Username: 123213
+Password: 123123
+Email: asdhotmailcom
+Telefono: 6666
+Direccion: 1231232
+
+<> 2020-04-29T074021.404.html
+
+###
+
+POST http://localhost:8000/api/v1/usuarios/
+Nombres: asd
+Apellidos: asdsd
+Username: 123213
+Password: 123123
+Email: asdhotmailcom
+Telefono: 6666
+Direccion: 1231232
+
+<> 2020-04-29T073401.404.html
+
+###
+
+POST http://localhost:8000/api/v1/usuarios/?nombres=asd&apellidos=asd&username=asd&password=123&email=asdadhotamcil&telefono=5555&direccion=yyyy
+nombres: asd
+apellidos: qqwe
+username: asdqwe
+password: asd123
+email: asd@hotmail.com
+telefono: 55555555
+direccion: asdasd
+
+<> 2020-04-29T072114.404.html
+
+###
+
+POST http://localhost:8000/api/v1/usuarios
+nombres: asd
+apellidos: qqwe
+username: asdqwe
+password: asd123
+email: asd@hotmail.com
+telefono: 55555555
+direccion: asdasd
+
+<> 2020-04-29T071251.405.html
+
+###
+
+POST http://localhost:8000/api/v1/usuarios
+nombres: asd
+apellidos: qqwe
+username: asdqwe
+password: asd123
+email: asd@hotmail.com
+telefono: 55555555
+direccion: asdasd
+
+<> 2020-04-29T070838.405.html
+
+###
+
+POST http://localhost:8000/post/?nombres=asd&apellidos=asd&username=qwe&password=12323qweqw&email=asd2@&telefono=555555555&direccion=qqqqqqqqqqqq
+nombres: asd
+apellidos: qqwe
+username: asdqwe
+password: asd123
+email: asd@hotmail.com
+telefono: 55555555
+direccion: asdasd
+
+<> 2020-04-29T050205.404.html
+
+###
+
+POST http://localhost:8000/post/?nombres=asd&apellidos=asd&username=qwe&password=12323qweqw&email=asd2@&telefono=555555555&direccion=qqqqqqqqqqqq&nombres=asd&apellidos=asd&username=qwe&password=12323qweqw&email=asd2@&telefono=555555555&direccion=qqqqqqqqqqqq&nombres=asd&apellidos=asd&username=qwe&password=12323qweqw&email=asd2@&telefono=555555555&direccion=qqqqqqqqqqqq
+nombres: asd
+apellidos: qqwe
+username: asdqwe
+password: asd123
+email: asd@hotmail.com
+telefono: 55555555
+direccion: asdasd
+
+<> 2020-04-29T050052.404.html
+
+###
+
+POST http://localhost:8000/post/?nombres=asd&apellidos=asd&username=qwe&password=12323qweqw&email=asd2@&telefono=555555555&direccion=qqqqqqqqqqqq&nombres=asd&apellidos=asd&username=qwe&password=12323qweqw&email=asd2@&telefono=555555555&direccion=qqqqqqqqqqqq
+nombres: asd
+apellidos: qqwe
+username: asdqwe
+password: asd123
+email: asd@hotmail.com
+telefono: 55555555
+direccion: asdasd
+
+<> 2020-04-29T050026.404.html
+
+###
+
+POST http://localhost:8000/post/?nombres=asd&apellidos=asd&username=qwe&password=12323qweqw&email=asd2@&telefono=555555555&direccion=qqqqqqqqqqqq
+nombres: asd
+apellidos: qqwe
+username: asdqwe
+password: asd123
+email: asd@hotmail.com
+telefono: 55555555
+direccion: asdasd
+
+<> 2020-04-29T045949.404.html
+
+###
+
+POST http://localhost:8000/post
+nombres: asd
+apellidos: qqwe
+username: asdqwe
+password: asd123
+email: asd@hotmail.com
+telefono: 55555555
+direccion: asdasd
+
+<> 2020-04-29T045751.500.html
+
+###
+
+POST http://localhost:8000/post
+nombres: asd
+apellidos: qqwe
+username: asdqwe
+password: asd123
+email: asd@hotmail.com
+telefono: 55555555
+direccion: asdasd
+
+###
+
+POST http://localhost:8000/post
+nombres: asd
+apellidos: qqwe
+username: asdqwe
+password: asd123
+email: asd@hotmail.com
+telefono: 55555555
+direccion: asdasd
+
+<> 2020-04-29T045519.500.html
+
+###
+
+POST http://localhost:8000/post
+nombres: asd
+apellidos: qqwe
+username: asdqwe
+password: asd123
+email: asd@hotmail.com
+telefono: 55555555
+direccion: asdasd
+
+<> 2020-04-29T045507.500.html
+
+###
+
+POST http://localhost:8000/post
+nombres: asd
+apellidos: qqwe
+username: asdqwe
+password: asd123
+email: asd@hotmail.com
+telefono: 55555555
+direccion: asdasd
+
+###
+
+POST http://localhost:8000/post
+nombres: asd
+apellidos: qqwe
+username: asdqwe
+password: asd123
+email: asd@hotmail.com
+telefono: 55555555
+direccion: asdasd
+
+<> 2020-04-29T045344.500.html
+
+###
+
+POST http://localhost:8000/post
+nombres: asd
+apellidos: qqwe
+username: asdqwe
+password: asd123
+email: asd@hotmail.com
+telefono: 55555555
+direccion: asdasd
+
+<> 2020-04-29T045231.500.html
+
+###
+
+POST http://localhost:8000/post
+nombres: asd
+apellidos: qqwe
+username: asdqwe
+password: asd123
+email: asd@hotmail.com
+telefono: 55555555
+direccion: asdasd
+
+<> 2020-04-29T045035.200.html
+
+###
+
+POST http://localhost:8000/post
+nombres: asd
+apellidos: qqwe
+username: asdqwe
+password: asd123
+email: asd@hotmail.com
+telefono: 55555555
+direccion: asdasd
+
+<> 2020-04-29T044959.200.html
+
+###
+
+POST http://localhost:8000/post
+nombres: asd
+apellidos: qqwe
+username: asdqwe
+password: asd123
+email: asd@hotmail.com
+telefono: 55555555
+direccion: asdasd
+
+<> 2020-04-29T044844.500.html
+
+###
+
+POST http://localhost:8000/post
+nombres: asd
+apellidos: qqwe
+username: asdqwe
+password: asd123
+email: asd@hotmail.com
+telefono: 55555555
+direccion: asdasd
+
+<> 2020-04-29T044734.500.html
+
+###
+
+POST http://localhost:8000/post
+nombres: asd
+apellidos: qqwe
+username: asdqwe
+password: asd123
+email: asd@hotmail.com
+telefono: 55555555
+direccion: asdasd
+
+<> 2020-04-29T044710.500.html
+
+###
+
+POST http://localhost:8000/post
+nombres: asd
+apellidos: qqwe
+username: asdqwe
+password: asd123
+email: asd@hotmail.com
+telefono: 55555555
+direccion: asdasd
+
+<> 2020-04-29T044653.500.html
+
+###
+
+POST http://localhost:8000/post
+nombres: asd
+apellidos: qqwe
+username: asdqwe
+password: asd123
+email: asd@hotmail.com
+telefono: 55555555
+direccion: asdasd
+
+<> 2020-04-29T044640.500.html
+
+###
+
+POST http://localhost:8000/post
+nombres: asd
+apellidos: qqwe
+username: asdqwe
+password: asd123
+email: asd@hotmail.com
+telefono: 55555555
+direccion: asdasd
+
+<> 2020-04-29T044623.500.html
+
+###
+
+POST http://localhost:8000/post
+nombres: asd
+apellidos: qqwe
+username: asdqwe
+password: asd123
+email: asd@hotmail.com
+telefono: 55555555
+direccion: asdasd
+
+<> 2020-04-29T044600.500.html
+
+###
+
+POST http://localhost:8000/post
+nombres: asd
+apellidos: qqwe
+username: asdqwe
+password: asd123
+email: asd@hotmail.com
+telefono: 55555555
+direccion: asdasd
+
+<> 2020-04-29T044515.500.html
+
+###
+
+POST http://localhost:8000/post
+nombres: asd
+apellidos: qqwe
+username: asdqwe
+password: asd123
+email: asd@hotmail.com
+telefono: 55555555
+direccion: asdasd
+
+<> 2020-04-29T044458.200.html
+
+###
+
+POST http://localhost:8000/api/v1/usuarios/post
+nombres: asd
+apellidos: qqwe
+username: asdqwe
+password: asd123
+email: asd@hotmail.com
+telefono: 55555555
+direccion: asdasd
+
+<> 2020-04-29T044452.404.html
+
+###
+
+POST http://localhost:8000/api/v1/usuarios/post
+nombres: asd
+apellidos: qqwe
+username: asdqwe
+password: asd123
+email: asd@hotmail.com
+telefono: 55555555
+direccion: asdasd
+
+<> 2020-04-29T043726.200.html
+
+###
+
